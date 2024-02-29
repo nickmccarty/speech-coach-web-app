@@ -1,7 +1,7 @@
 # Speech Coach Web App
 
 ## Description
-A Flask app that uses the OpenAI API to generate constructive critiques when a user inputs a YouTube URL or uploads one of the supported file types. 
+A Flask app that uses the OpenAI API to generate constructive critiques when a user inputs a YouTube URL or uploads one of the supported file types (`mp3`, `mp4`, `mpeg`, `mpga`, `m4a`, `wav`, or `webm`). 
 
 | URL Demo | Upload Demo |
 |---------|---------|
